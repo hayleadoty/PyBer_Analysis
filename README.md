@@ -12,7 +12,7 @@ PyBer Summary DataFrame:
 
 Urban cities show higher volume than other city types in total rides, drivers, and fares, as expected. For urban cities, average fare per ride and driver are lower than the other city types, likely due to driver availability. Suburban cities fall in between urban and rural in terms of all areas. Rural cities show less rides, drivers, and less in total fares, however, rides are more expensive, and drivers make more money per ride. We'd expect to see this result, as the cost per ride is going to be higher where there are less drivers available.
 
-![Total Fare by City Type](/Resources/linechart.png)
+![Total Fare by City Type](/analysis/PyBer_fare_summary.png)
 
 We can see that urban cities are the most profitable for the company overall, which is to be expected. There is a spike in fares for all city types toward the end of February. Overall, we can see that urban cities generate the highest fare overall, with suburban and urban generating less fares, respectively.
 
